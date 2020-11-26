@@ -1,0 +1,25 @@
+.h1 {
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 2px;
+}
+.h2 {
+  font-size: 24px;
+  font-style: italic;
+}
+.refrain {
+  font-size: 18px;
+  font-style: italic;
+}
+.verse1 {
+  font-size: 14px;
+  text-align: left;
+}
+.verse2 {
+  font-size: 14px;
+  text-align: right;
+}
+.verse3 {
+  font-size: 14px;
+  text-align: left;
+}
